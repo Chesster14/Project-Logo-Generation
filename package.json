@@ -1,0 +1,22 @@
+{
+  "name": "project-logo-generation",
+  "version": "1.0.0",
+  "description": "What is an SVG file? Scalable Vector Graphics (SVG) is a web-friendly vector file format. As opposed to pixel-based raster files like JPEGs, vector files store images via mathematical formulas based on points and lines on a grid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chesster14/Project-Logo-Generation.git"
+  },
+  "author": "Tod Winchester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chesster14/Project-Logo-Generation/issues"
+  },
+  "homepage": "https://github.com/Chesster14/Project-Logo-Generation#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  }
+}
