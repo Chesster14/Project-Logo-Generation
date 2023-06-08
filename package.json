@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Chesster14/Project-Logo-Generation#readme",
   "dependencies": {
     "inquirer": "^9.2.7"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
   }
 }
