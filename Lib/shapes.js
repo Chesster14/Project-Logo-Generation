@@ -18,4 +18,4 @@ class Circle extends Shape {
 }
 }
 
-module.exports = {Circle, Triangle, Square}
+module.exports = Circle
