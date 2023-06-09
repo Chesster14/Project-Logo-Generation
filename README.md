@@ -9,17 +9,17 @@ What is an SVG file? Scalable Vector Graphics (SVG) is a web-friendly vector fil
 ## Screen recording:
 ![Screen recording]https://app.screencastify.com/manage/videos/kQ3L84B5BwlGN4ocvM0e
 
-  ## Table of Contents:
+## Table of Contents:
 
-  - [Information](#information)
-  - [Installation](#installation)
-  - [Questions](#questions)
-  - [License](#license)
+- [Information](#information)
+- [Installation](#installation)
+- [Questions](#questions)
+- [License](#license)
 
 
- ## Information
+## Information
 
- ## Installation
+## Installation
     Git clone <URL> & npm i
 
 ## Questions
@@ -27,9 +27,9 @@ What is an SVG file? Scalable Vector Graphics (SVG) is a web-friendly vector fil
 
 ## License
 This application is covered under the MIT Licence
+![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
 
 
-
-  ## Github
-  [Github Profile](https://github.com/Chesster14)
-  Feel free to check my other projects.
+## Github
+[Github Profile](https://github.com/Chesster14)
+Feel free to check my other projects.
