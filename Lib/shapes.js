@@ -1,21 +1,27 @@
 class Shape {
-    constructor () {
-        this.color = ""
-    }
+  constructor() {
+    this.color = "";
+  }
 
-    setColor(color) {
-        this.color = color
-    }
+  setColor(color) {
+    this.color = color;
+  }
 }
 
 class Circle extends Shape {
-
-    render() {
-        return `<svg version="1.1"
+  render(text, color) {
+    return `<svg version="1.1"
         width="300" height="200"
         xmlns="http://www.w3.org/2000/svg">
-        <circle cx="150" cy="100" f="80" fill="${this.color}" /> </svg>`
-}
+        <circle cx="100" cy="100" r="100" fill="${this.color}" />
+        <text x="100" y="100" style="color: ${color};">${text}</text>
+        </svg>`;
+  }
 }
 
-module.exports = Circle
+// let shape = new Circle();
+// shape.setColor('red');
+// let output = shape.render();
+// console.log('output', output);
+
+module.exports = Circle;
