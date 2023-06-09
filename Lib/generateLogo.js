@@ -1,4 +1,4 @@
 const generateLogo = ({ text, textColor, shape, shapeColor }) =>
 
 
-module.exports = generateLogo:
+module.exports = generateLogo;

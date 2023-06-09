@@ -2,7 +2,7 @@ module.exports = [
         {
             type: 'input',
             name: 'text',
-            message: 'Please nter 3 chararacters for your logo',
+            message: 'Please enter 3 chararacters for your logo',
           },
           {
             type: 'list',
