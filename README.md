@@ -7,13 +7,12 @@ What is an SVG file? Scalable Vector Graphics (SVG) is a web-friendly vector fil
 
 
 ## Screen recording:
-![Screen recording]
+![Screen recording]https://app.screencastify.com/manage/videos/kQ3L84B5BwlGN4ocvM0e
 
   ## Table of Contents:
 
   - [Information](#information)
   - [Installation](#installation)
-  - [Tests](#tests)
   - [Questions](#questions)
   - [License](#license)
 
