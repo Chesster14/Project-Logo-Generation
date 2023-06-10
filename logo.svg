@@ -1,6 +1,6 @@
 <svg version="1.1"
         width="300" height="200"
         xmlns="http://www.w3.org/2000/svg">
-        <text x="100" y="100" style="color: pink;">abc</text>
-        <circle cx="100" cy="100" r="100" fill="black" />
+        <circle cx="100" cy="100" r="100" fill="blue" />
+        <text x="100" y="100" style="color: white;">SVG</text>
         </svg>
