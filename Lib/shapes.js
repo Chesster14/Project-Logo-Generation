@@ -14,7 +14,7 @@ class Circle extends Shape {
         width="300" height="200"
         xmlns="http://www.w3.org/2000/svg">
         <circle cx="100" cy="100" r="100" fill="${this.color}" />
-        <text x="100" y="100" style="color: ${color};">${text}</text>
+        <text x="100" y="100" fill="${color}">${text}</text>
         </svg>`;
   }
 }
