@@ -33,7 +33,7 @@ const init = async () => {
     // if (responses.shape == "Triangle") {
 
     //  if the user selected triangle, create a new object instance of your Triangle class
-    //you would do something similar for the other shapes--don't forget to import them up above
+    // do something similar for the other shapes--don't forget to import them up above
    // shape = new Triangle();
    
     // use the answers from the user to set shape properties
@@ -43,9 +43,9 @@ const init = async () => {
     // }
     // if (responses.shape == "Triangle") {
 
-    // if the user selected triangle, create a new object instance of your Triangle class
-    //  you would do something similar for the other shapes--don't forget to import them up above
-    //   // shape = new Triangle();
+    // if the user selected Square, create a new object instance of your Square class
+    // do something similar for the other shapes--don't forget to import them up above
+    //   // shape = new Square();
 
     //   // use the answers from the user to set shape properties
     //   shape.setColor(responses.shapeColor);
